@@ -1,5 +1,4 @@
 # Data-Engineering
-module last year BSCs CS
 
 Code of conduct:
 
