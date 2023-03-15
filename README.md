@@ -16,6 +16,8 @@ Task managemet (agile style) --> https://tonyscompany23.teamwork.com/app/project
 
 ### Summary of the module and project:
 Github, Docker, Airflow, Visual Studio Code (Windows), Python programming language, teamwork online tool management, postgress, Elasticsearch with Kibana.
-Agile method with Kanban board tool
+
+Agile method with Kanban board tool.
+
 Analyse flow of data automatically.
 
