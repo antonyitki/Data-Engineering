@@ -21,3 +21,4 @@ Agile method with Kanban board tool.
 
 Analyse flow of data automatically.
 
+Familiarize with Cloud, Google Cloud to build pipeline about data.
