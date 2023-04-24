@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T17:50:56.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kKkc_McHED3cFIPTboxe" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T17:54:00.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="W08oK2EU_i4P2P8TrOZK" version="21.2.1" type="github">
   <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -25,16 +25,16 @@
         <mxCell id="279d4c6e8b4f5ae2-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" parent="1" vertex="1">
           <mxGeometry x="1048" y="384" width="20" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-9" value="Cell 1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="279d4c6e8b4f5ae2-9" value="Location" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="499" y="364" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-10" value="Cell 2" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="279d4c6e8b4f5ae2-10" value="Music played" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="709" y="364" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-11" value="Cell 3" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="279d4c6e8b4f5ae2-11" value="Time played" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="939" y="364" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="279d4c6e8b4f5ae2-12" value="Cell 4" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="279d4c6e8b4f5ae2-12" value="Interaction player" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="462" y="816" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="279d4c6e8b4f5ae2-13" value="Cell 5" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
