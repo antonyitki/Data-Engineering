@@ -24,3 +24,8 @@ Familiarize with Cloud, Google Cloud to build pipeline about data.
   * increase pleasure to listener to retain customers and increase time consumming on Spotify from customers
   * find best songs and artists to produce similar content
   * analyze behaviour of user
+  * QUESTIONS TO FIND ANSWER/S:
+    * Weather influence
+    * Location influence
+    * Time during day of listening music influence
+    
